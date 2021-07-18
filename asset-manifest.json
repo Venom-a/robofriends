@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Venom-a.github.io/rebofriends/static/css/main.8f05c78b.chunk.css",
+    "main.js": "/Venom-a.github.io/rebofriends/static/js/main.f87dc931.chunk.js",
+    "main.js.map": "/Venom-a.github.io/rebofriends/static/js/main.f87dc931.chunk.js.map",
+    "runtime-main.js": "/Venom-a.github.io/rebofriends/static/js/runtime-main.1d76955d.js",
+    "runtime-main.js.map": "/Venom-a.github.io/rebofriends/static/js/runtime-main.1d76955d.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Venom-a.github.io/rebofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1efe70f0.chunk.js": "/Venom-a.github.io/rebofriends/static/js/2.1efe70f0.chunk.js",
+    "static/js/2.1efe70f0.chunk.js.map": "/Venom-a.github.io/rebofriends/static/js/2.1efe70f0.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/Venom-a.github.io/rebofriends/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/Venom-a.github.io/rebofriends/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/Venom-a.github.io/rebofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Venom-a.github.io/rebofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.8f05c78b.chunk.css.map": "/Venom-a.github.io/rebofriends/static/css/main.8f05c78b.chunk.css.map",
+    "static/js/2.1efe70f0.chunk.js.LICENSE.txt": "/Venom-a.github.io/rebofriends/static/js/2.1efe70f0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Venom-a.github.io/rebofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d76955d.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1efe70f0.chunk.js",
+    "static/css/main.8f05c78b.chunk.css",
+    "static/js/main.f87dc931.chunk.js"
+  ]
+}
